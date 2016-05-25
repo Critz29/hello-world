@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1">
-  <HTTPTask id="10" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/" url="http://kalimanjaro.hpswlabs.adapps.hp.com/" ip="16.42.57.11" port="8080" connectionId="1" origin="Primary" frame="1" startDateTime="2016-05-25T05:40:16.900-06:00" startTime="20480453" endTime="20480468">
+  <HTTPTask id="10" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/" url="http://kalimanjaro.hpswlabs.adapps.hp.com/" ip="16.42.57.11" port="8080" connectionId="1" origin="Primary" frame="1" startDateTime="2016-05-25T07:17:39.210-06:00" startTime="20480453" endTime="20480468">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">
@@ -248,7 +248,7 @@
         <PacketInfo time="20480468" offset="4080" length="994" />
       </TcpPackets>
     </HTTPResponse>
-    <HTTPTask id="14" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif" url="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T05:40:17.081-06:00" startTime="20480718" endTime="20480734">
+    <HTTPTask id="14" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif" url="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T07:17:39.280-06:00" startTime="20480718" endTime="20480734">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -495,7 +495,7 @@
         </TcpPackets>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="18" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif" url="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T05:40:17.101-06:00" startTime="20480734" endTime="20480765">
+    <HTTPTask id="18" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif" url="http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T07:17:39.299-06:00" startTime="20480734" endTime="20480765">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -762,7 +762,7 @@
         </TcpPackets>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="40" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/favicon.ico" url="http://kalimanjaro.hpswlabs.adapps.hp.com/favicon.ico" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T05:40:17.129-06:00" startTime="20481171" endTime="20481187">
+    <HTTPTask id="40" hostname="kalimanjaro.hpswlabs.adapps.hp.com" path="http://kalimanjaro.hpswlabs.adapps.hp.com/favicon.ico" url="http://kalimanjaro.hpswlabs.adapps.hp.com/favicon.ico" ip="16.42.57.11" port="8080" connectionId="1" origin="HTML" frame="1" startDateTime="2016-05-25T07:17:39.328-06:00" startTime="20481171" endTime="20481187">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -954,7 +954,7 @@
       </HTTPResponse>
     </HTTPTask>
   </HTTPTask>
-  <HTTPTask id="333" hostname="r20swj13mr.microsoft.com" path="/ieblocklist/v1/urlblockindex.bin" url="https://r20swj13mr.microsoft.com/ieblocklist/v1/urlblockindex.bin" ip="16.42.57.11" port="443" connectionId="5" origin="ExtraRes" frame="1" startDateTime="2016-05-25T05:40:17.158-06:00" startTime="20513921" endTime="20514093">
+  <HTTPTask id="333" hostname="r20swj13mr.microsoft.com" path="/ieblocklist/v1/urlblockindex.bin" url="https://r20swj13mr.microsoft.com/ieblocklist/v1/urlblockindex.bin" ip="16.42.57.11" port="443" connectionId="5" origin="ExtraRes" frame="1" startDateTime="2016-05-25T07:17:39.393-06:00" startTime="20513921" endTime="20514093">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">

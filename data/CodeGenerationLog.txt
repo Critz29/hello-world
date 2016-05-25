@@ -221,36 +221,6 @@ $$$$$$ End Log Message $$$$$$
 
 $$$$$$ Add Event For Transaction With Id 10 Ended $$$$$$
 
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("s_fid=5704A70AC253C47A-0FC27D1A9A9141C6; DOMAIN=kalimanjaro.hpswlabs.adapps.hp.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("s_vi=[CS]v1|2B99B38E051D0699-4000190C40002043[CE]; DOMAIN=kalimanjaro.hpswlabs.adapps.hp.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("hp_last_segment=segment neutral; DOMAIN=kalimanjaro.hpswlabs.adapps.hp.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("EMID=; DOMAIN=kalimanjaro.hpswlabs.adapps.hp.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("hpeuck_answ=0; DOMAIN=kalimanjaro.hpswlabs.adapps.hp.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
 ****** Request Header For Transaction With Id 14 ******
 GET http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif HTTP/1.1
 Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
@@ -1036,18 +1006,6 @@ $$$$$$ End Log Message $$$$$$
 
 
 $$$$$$ Replace Event For Transaction With Id 10 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("SRCHD=AF=NOFORM; DOMAIN=r20swj13mr.microsoft.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
-	web_add_cookie("SRCHUSR=DOB=20160426; DOMAIN=r20swj13mr.microsoft.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
 
 ****** Error: found multiple wplus_http_wsock_request_ex events with the same processID, sessionid and httpid!
 ****** Request Header For Transaction With Id 336 ******
@@ -6171,18 +6129,6 @@ $$$$$$ End Log Message $$$$$$
 
 
 $$$$$$ Add Event For Transaction With Id 336 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 336)
-	web_add_cookie("SRCHD=AF=NOFORM; DOMAIN=iecvlist.microsoft.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
-
-****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 336)
-	web_add_cookie("SRCHUSR=DOB=20160426; DOMAIN=iecvlist.microsoft.com");
-
-
-$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
 
 ****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 10)
 	web_add_header("Accept-Language",
