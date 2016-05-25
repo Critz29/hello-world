@@ -1,0 +1,11 @@
+GET http://kalimanjaro.hpswlabs.adapps.hp.com/ HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: es-CR
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate, peerdist
+Proxy-Connection: Keep-Alive
+Host: kalimanjaro.hpswlabs.adapps.hp.com
+Cookie: s_fid=5704A70AC253C47A-0FC27D1A9A9141C6; s_vi=[CS]v1|2B99B38E051D0699-4000190C40002043[CE]; hp_last_segment=segment neutral; EMID=; hpeuck_answ=0
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=1.0
+
